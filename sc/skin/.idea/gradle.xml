@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/eureka-server" />
+            <option value="$PROJECT_DIR$/serice-feign" />
             <option value="$PROJECT_DIR$/service-hi" />
+            <option value="$PROJECT_DIR$/service-ribbon" />
             <option value="$PROJECT_DIR$/tools-common" />
           </set>
         </option>

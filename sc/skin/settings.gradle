@@ -3,3 +3,5 @@ rootProject.name = 'skin'
 include('tools-common')
 include('eureka-server')
 include('service-hi')
+include('service-ribbon')
+include('serice-feign')
