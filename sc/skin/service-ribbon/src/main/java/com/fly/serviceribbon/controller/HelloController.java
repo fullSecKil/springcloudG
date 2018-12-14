@@ -13,7 +13,7 @@ public class HelloController {
     HelloService helloService;
 
     @GetMapping(value = "/hi")
-    public String hi(@RequestParam String name){
+    public String hi(@RequestParam(defaultValue = "xuerui") String name){
         return helloService.hiService(name);
     }
 }
