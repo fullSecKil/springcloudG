@@ -1,0 +1,3 @@
+rootProject.name = 'server-zipkin'
+
+include('service-hi')

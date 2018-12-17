@@ -9,21 +9,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/config-client" />
+            <option value="$PROJECT_DIR$/config-server" />
             <option value="$PROJECT_DIR$/eureka-server" />
             <option value="$PROJECT_DIR$/serice-feign" />
             <option value="$PROJECT_DIR$/service-hi" />
             <option value="$PROJECT_DIR$/service-ribbon" />
-            <option value="$PROJECT_DIR$/tools-common" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/service-zuul" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../gradle/gradle-5.1-milestone-1" />
-        <option name="modules">
-          <set>
             <option value="$PROJECT_DIR$/service-zuul" />
+            <option value="$PROJECT_DIR$/tools-common" />
           </set>
         </option>
       </GradleProjectSettings>
